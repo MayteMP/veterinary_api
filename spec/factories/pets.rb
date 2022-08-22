@@ -1,12 +1,12 @@
 FactoryBot.define do
   factory :pet do
-    name { "MyString" }
-    birthday { "2022-08-21" }
-    genre { "MyString" }
-    specie { "MyString" }
-    color { "MyString" }
-    brees { "MyString" }
-    microchip_number { "MyString" }
-    particular_sings { "MyText" }
+    name { "Valkiria" }
+    birthday { "2015-08-21" }
+    genre { "female" }
+    specie { "dog" }
+    color { "Orange" }
+    brees { "dalmata" }
+    microchip_number { "abc-def-0001" }
+    particular_sings { "Left black eye" }
   end
 end
